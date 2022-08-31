@@ -8,3 +8,4 @@ List of components
    :maxdepth: 1
 
    2d/index
+   group
