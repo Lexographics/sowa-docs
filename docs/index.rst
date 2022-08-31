@@ -9,6 +9,7 @@ but you can follow the development process in our `discord server <https://disco
 
 
 Page Index:
+
 .. toctree::
    :maxdepth: 1
    :caption: General
