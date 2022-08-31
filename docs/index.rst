@@ -15,3 +15,9 @@ Page Index:
    :caption: General
 
    general/about_sowa_engine
+
+.. toctree::
+   :maxdepth: 1
+   :caption: C++ API Reference
+
+   cpp_api_reference/components/2d/transform2d.rst
