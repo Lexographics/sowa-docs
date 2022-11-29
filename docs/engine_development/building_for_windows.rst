@@ -40,7 +40,7 @@ After downloading nmres, run the following command in engine root directory
 
 .. code-block:: bash
     
-    /path/to/nmres.exe --recursive --cwd Ease --namespace Ease::Res \
+    /path/to/nmres.exe --recursive --cwd Sowa --namespace Sowa::Res \
         --suffix .res.hpp --rules res_rules.txt
 
 this will generate necessary resources in project
