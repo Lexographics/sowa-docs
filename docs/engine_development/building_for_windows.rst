@@ -11,7 +11,7 @@ Getting The Source
 ------------------
 
 To get Sowa Engine source code, you can download source
-code on `GitHub <https://github.com/Lexographics/SowaEngine>`_ 
+code on `GitHub <https://github.com/sowaengine/sowa>`_ 
 or clone it via `git <https://git-scm.com/>`_ version
 control system
 
@@ -20,7 +20,7 @@ terminal
 
 .. code-block:: bash
 
-    git clone https://Lexographics/SowaEngine.git --recurse-submodules
+    git clone https://github.com/sowaengine/sowa.git --recurse-submodules
 
 .. attention:: -\-recurse-submodules is important because the engine
     uses submodules. If you forgot to add that parameter, you can run
@@ -113,7 +113,7 @@ Installing The Engine
 ^^^^^^^^^^^^^^^^^^^^^
 
 After compilation, build folder can look unorganized. To start
-using the engine, you can copy executable ``Sowa-Editor.exe``, 
+using the engine, you can copy executable ``sowa.editor.exe``, 
 all content in ``ProjectManager/`` to a folder, and ``Editor/`` content in
 ``ProjectManager/`` folder
 
@@ -121,8 +121,8 @@ Directory structure should look like this:
 
 | Sowa
 | ├─Editor/
-| │ ├─project.ease (Editor)
-| │ └─editor-files
-| ├─Sowa-Editor.exe
+| │ ├─sowa.editor.lua
+| │ └─sowa.editor.exe
+| ├─sowa.engine.exe
 | ├─project.ease (ProjectManager)
 | └─project-manager-files
