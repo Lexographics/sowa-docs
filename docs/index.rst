@@ -1,7 +1,7 @@
 Sowa Engine Documentation
 =========================
 
-Welcome to documentation of `Sowa Engine <https://github.com/Lexographics/SowaEngine>`_
+Welcome to documentation of `Sowa Engine <https://github.com/sowaengine/sowa>`_
 Sowa Engine is a 2d open source game engine.
 
 .. warning::
