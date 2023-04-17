@@ -1,2 +1,2 @@
-Emptry Tutorial 1
+Empty Tutorial 1
 =================

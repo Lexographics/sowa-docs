@@ -19,7 +19,7 @@
 # -- Project information -----------------------------------------------------
 
 project = 'Sowa Engine'
-copyright = '2022, Lexographics'
+copyright = '2022-2023, Lexographics'
 author = 'Lexographics'
 
 # The full version, including alpha/beta/rc tags
